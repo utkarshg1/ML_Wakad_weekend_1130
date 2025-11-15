@@ -1,0 +1,14 @@
+[project]
+name = "ml-wakad-weekend-1130"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "joblib>=1.5.2",
+    "loguru>=0.7.3",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "streamlit>=1.51.0",
+]
